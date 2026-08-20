@@ -1,8 +1,8 @@
 {
   "meta": {
     "year": 2026,
-    "total_rounds": 22,
-    "generated_at": "2026-07-23T08:30:01.155846+00:00"
+    "total_rounds": 23,
+    "generated_at": "2026-08-20T22:06:02.715293+00:00"
   },
   "races": [
     {
@@ -191,9 +191,9 @@
       "circuit": "Budapest",
       "country": "Hungary",
       "date": "2026-07-26",
-      "status": "upcoming",
-      "winner": null,
-      "winner_team": null,
+      "status": "completed",
+      "winner": "Lando Norris",
+      "winner_team": "McLaren",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hungaroring%2C_April_28%2C_2018_SkySat_%28cropped%29.jpg",
       "race_id": "2026_hungarian_grand_prix",
       "has_sprint": false,
@@ -262,6 +262,21 @@
     },
     {
       "round": 16,
+      "name": "Bahrain Grand Prix",
+      "circuit": "Kuala Lumpur",
+      "country": "Bahrain",
+      "date": "2026-10-04",
+      "status": "upcoming",
+      "winner": null,
+      "winner_team": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bahrain_International_Circuit%2C_November_2%2C_2017_SkySat_%28cropped%29.jpg/1280px-Bahrain_International_Circuit%2C_November_2%2C_2017_SkySat_%28cropped%29.jpg",
+      "race_id": "2026_bahrain_grand_prix",
+      "has_sprint": false,
+      "weekend_start": "2026-10-02",
+      "race_time": "2026-10-04T07:00:00+00:00"
+    },
+    {
+      "round": 17,
       "name": "Singapore Grand Prix",
       "circuit": "Marina Bay",
       "country": "Singapore",
@@ -276,7 +291,7 @@
       "race_time": "2026-10-11T12:00:00+00:00"
     },
     {
-      "round": 17,
+      "round": 18,
       "name": "United States Grand Prix",
       "circuit": "Austin",
       "country": "United States",
@@ -291,7 +306,7 @@
       "race_time": "2026-10-25T20:00:00+00:00"
     },
     {
-      "round": 18,
+      "round": 19,
       "name": "Mexico City Grand Prix",
       "circuit": "Mexico City",
       "country": "Mexico",
@@ -306,7 +321,7 @@
       "race_time": "2026-11-01T20:00:00+00:00"
     },
     {
-      "round": 19,
+      "round": 20,
       "name": "S\u00e3o Paulo Grand Prix",
       "circuit": "S\u00e3o Paulo",
       "country": "Brazil",
@@ -321,7 +336,7 @@
       "race_time": "2026-11-08T17:00:00+00:00"
     },
     {
-      "round": 20,
+      "round": 21,
       "name": "Las Vegas Grand Prix",
       "circuit": "Las Vegas",
       "country": "United States",
@@ -336,7 +351,7 @@
       "race_time": "2026-11-22T04:00:00+00:00"
     },
     {
-      "round": 21,
+      "round": 22,
       "name": "Qatar Grand Prix",
       "circuit": "Lusail",
       "country": "Qatar",
@@ -351,7 +366,7 @@
       "race_time": "2026-11-29T16:00:00+00:00"
     },
     {
-      "round": 22,
+      "round": 23,
       "name": "Abu Dhabi Grand Prix",
       "circuit": "Yas Marina",
       "country": "United Arab Emirates",
