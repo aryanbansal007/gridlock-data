@@ -2,7 +2,7 @@
   "meta": {
     "year": 2026,
     "total_rounds": 22,
-    "generated_at": "2026-07-10T08:00:09.753010+00:00"
+    "generated_at": "2026-07-23T08:30:01.155846+00:00"
   },
   "races": [
     {
@@ -49,6 +49,36 @@
       "has_sprint": false,
       "weekend_start": "2026-03-27",
       "race_time": "2026-03-29T05:00:00+00:00"
+    },
+    {
+      "round": 3.1,
+      "name": "Bahrain Grand Prix",
+      "circuit": "Sakhir",
+      "country": "Bahrain",
+      "date": "2026-04-12",
+      "status": "cancelled",
+      "winner": null,
+      "winner_team": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bahrain_International_Circuit%2C_November_2%2C_2017_SkySat_%28cropped%29.jpg/1280px-Bahrain_International_Circuit%2C_November_2%2C_2017_SkySat_%28cropped%29.jpg",
+      "race_id": "2026_bahrain_grand_prix",
+      "has_sprint": false,
+      "weekend_start": "2026-04-12",
+      "race_time": null
+    },
+    {
+      "round": 3.3000000000000003,
+      "name": "Saudi Arabian Grand Prix",
+      "circuit": "Jeddah",
+      "country": "Saudi Arabia",
+      "date": "2026-04-19",
+      "status": "cancelled",
+      "winner": null,
+      "winner_team": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Jeddah.circuit.jpg",
+      "race_id": "2026_saudi_arabian_grand_prix",
+      "has_sprint": false,
+      "weekend_start": "2026-04-19",
+      "race_time": null
     },
     {
       "round": 4,
@@ -146,9 +176,9 @@
       "circuit": "Spa-Francorchamps",
       "country": "Belgium",
       "date": "2026-07-19",
-      "status": "upcoming",
-      "winner": null,
-      "winner_team": null,
+      "status": "completed",
+      "winner": "Kimi Antonelli",
+      "winner_team": "Mercedes",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Circuit_de_Spa-Francorchamps%2C_April_22%2C_2018_SkySat_%28cropped%29.jpg/1280px-Circuit_de_Spa-Francorchamps%2C_April_22%2C_2018_SkySat_%28cropped%29.jpg",
       "race_id": "2026_belgian_grand_prix",
       "has_sprint": false,
@@ -242,7 +272,7 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/1_singapore_f1_night_race_2012_city_skyline.jpg/1280px-1_singapore_f1_night_race_2012_city_skyline.jpg",
       "race_id": "2026_singapore_grand_prix",
       "has_sprint": true,
-      "weekend_start": "2026-10-11",
+      "weekend_start": "2026-10-09",
       "race_time": "2026-10-11T12:00:00+00:00"
     },
     {
