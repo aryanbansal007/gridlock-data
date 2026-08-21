@@ -2,7 +2,7 @@
   "meta": {
     "year": 2026,
     "total_rounds": 23,
-    "generated_at": "2026-08-21T10:00:12.996222+00:00"
+    "generated_at": "2026-08-21T11:00:17.603744+00:00"
   },
   "races": [
     {
@@ -206,7 +206,7 @@
       "circuit": "Zandvoort",
       "country": "Netherlands",
       "date": "2026-08-23",
-      "status": "upcoming",
+      "status": "ongoing",
       "winner": null,
       "winner_team": null,
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Circuit_Zandvoort_motorsport_race_track_in_the_Netherlands_%2846940292845%29.jpg/1280px-Circuit_Zandvoort_motorsport_race_track_in_the_Netherlands_%2846940292845%29.jpg",
