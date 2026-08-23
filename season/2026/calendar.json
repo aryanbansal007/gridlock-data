@@ -2,7 +2,7 @@
   "meta": {
     "year": 2026,
     "total_rounds": 23,
-    "generated_at": "2026-08-23T16:00:20.758579+00:00"
+    "generated_at": "2026-08-23T17:00:15.464472+00:00"
   },
   "races": [
     {
@@ -206,9 +206,9 @@
       "circuit": "Zandvoort",
       "country": "Netherlands",
       "date": "2026-08-23",
-      "status": "ongoing",
-      "winner": null,
-      "winner_team": null,
+      "status": "completed",
+      "winner": "Lando Norris",
+      "winner_team": "McLaren",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Circuit_Zandvoort_motorsport_race_track_in_the_Netherlands_%2846940292845%29.jpg/1280px-Circuit_Zandvoort_motorsport_race_track_in_the_Netherlands_%2846940292845%29.jpg",
       "race_id": "2026_dutch_grand_prix",
       "has_sprint": true,

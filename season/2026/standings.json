@@ -1,8 +1,8 @@
 {
   "meta": {
     "year": 2026,
-    "generated_at": "2026-08-23T16:00:20.758593+00:00",
-    "rounds_counted": 11
+    "generated_at": "2026-08-23T17:00:15.464487+00:00",
+    "rounds_counted": 12
   },
   "drivers": [
     {
@@ -12,26 +12,12 @@
       "team": "Mercedes",
       "team_color": "00D2BE",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kimi_Antonelli_at_the_2025_US_Grand_Prix_in_Austin%2C_TX_%28cropped%29.jpg/500px-Kimi_Antonelli_at_the_2025_US_Grand_Prix_in_Austin%2C_TX_%28cropped%29.jpg",
-      "points": 219.0,
+      "points": 242.0,
       "wins": 6,
-      "podiums": 9,
+      "podiums": 10,
       "dnfs": 0,
-      "points_last_race": 15.0,
+      "points_last_race": 23.0,
       "position": 1
-    },
-    {
-      "abbreviation": "HAM",
-      "name": "Lewis Hamilton",
-      "number": "44",
-      "team": "Ferrari",
-      "team_color": "E8002D",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg/500px-Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg",
-      "points": 169.0,
-      "wins": 1,
-      "podiums": 5,
-      "dnfs": 0,
-      "points_last_race": 10.0,
-      "position": 2
     },
     {
       "abbreviation": "RUS",
@@ -40,26 +26,26 @@
       "team": "Mercedes",
       "team_color": "00D2BE",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/KingsLeonSilverstne040724_%2828_of_112%29_%2853838006028%29_%28cropped%29.jpg/500px-KingsLeonSilverstne040724_%2828_of_112%29_%2853838006028%29_%28cropped%29.jpg",
-      "points": 160.0,
+      "points": 183.0,
       "wins": 2,
-      "podiums": 5,
+      "podiums": 6,
       "dnfs": 2,
-      "points_last_race": 6.0,
-      "position": 3
+      "points_last_race": 23.0,
+      "position": 2
     },
     {
-      "abbreviation": "LEC",
-      "name": "Charles Leclerc",
-      "number": "16",
+      "abbreviation": "HAM",
+      "name": "Lewis Hamilton",
+      "number": "44",
       "team": "Ferrari",
       "team_color": "E8002D",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3978_by_Stepro_%28cropped2%29.jpg/500px-2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3978_by_Stepro_%28cropped2%29.jpg",
-      "points": 138.0,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg/500px-Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg",
+      "points": 183.0,
       "wins": 1,
-      "podiums": 4,
-      "dnfs": 1,
-      "points_last_race": 12.0,
-      "position": 4
+      "podiums": 5,
+      "dnfs": 0,
+      "points_last_race": 14.0,
+      "position": 3
     },
     {
       "abbreviation": "NOR",
@@ -68,11 +54,25 @@
       "team": "McLaren",
       "team_color": "FF8000",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3968_by_Stepro_%28cropped2%29.jpg/500px-2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3968_by_Stepro_%28cropped2%29.jpg",
-      "points": 128.0,
-      "wins": 1,
-      "podiums": 3,
+      "points": 159.0,
+      "wins": 2,
+      "podiums": 4,
       "dnfs": 3,
-      "points_last_race": 25.0,
+      "points_last_race": 31.0,
+      "position": 4
+    },
+    {
+      "abbreviation": "LEC",
+      "name": "Charles Leclerc",
+      "number": "16",
+      "team": "Ferrari",
+      "team_color": "E8002D",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3978_by_Stepro_%28cropped2%29.jpg/500px-2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3978_by_Stepro_%28cropped2%29.jpg",
+      "points": 155.0,
+      "wins": 1,
+      "podiums": 4,
+      "dnfs": 1,
+      "points_last_race": 17.0,
       "position": 5
     },
     {
@@ -82,11 +82,11 @@
       "team": "Red Bull Racing",
       "team_color": "3671C6",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_%28medium_crop%29.jpg/500px-2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_%28medium_crop%29.jpg",
-      "points": 109.0,
+      "points": 112.0,
       "wins": 0,
       "podiums": 4,
-      "dnfs": 2,
-      "points_last_race": 18.0,
+      "dnfs": 3,
+      "points_last_race": 3.0,
       "position": 6
     },
     {
@@ -96,11 +96,11 @@
       "team": "McLaren",
       "team_color": "FF8000",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2026_Chinese_GP_-_Oscar_Piastri_%28cropped%29_%28cropped%29.jpg/500px-2026_Chinese_GP_-_Oscar_Piastri_%28cropped%29_%28cropped%29.jpg",
-      "points": 92.0,
+      "points": 104.0,
       "wins": 0,
       "podiums": 2,
       "dnfs": 3,
-      "points_last_race": 0.0,
+      "points_last_race": 12.0,
       "position": 7
     },
     {
@@ -114,21 +114,21 @@
       "wins": 0,
       "podiums": 0,
       "dnfs": 2,
-      "points_last_race": 8.0,
+      "points_last_race": 0.0,
       "position": 8
     },
     {
       "abbreviation": "LAW",
       "name": "Liam Lawson",
       "number": "30",
-      "team": "Racing Bulls",
-      "team_color": "808080",
+      "team": "Red Bull Racing",
+      "team_color": "3671C6",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Liam_Lawson_at_the_Red_Bull_Fan_Zone_%E2%80%93_Crown_Riverwalk%2C_Melbourne_%28028A7793%29.jpg/500px-Liam_Lawson_at_the_Red_Bull_Fan_Zone_%E2%80%93_Crown_Riverwalk%2C_Melbourne_%28028A7793%29.jpg",
-      "points": 43.0,
+      "points": 49.0,
       "wins": 0,
       "podiums": 0,
       "dnfs": 1,
-      "points_last_race": 4.0,
+      "points_last_race": 6.0,
       "position": 9
     },
     {
@@ -138,11 +138,11 @@
       "team": "Alpine",
       "team_color": "0093CC",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/2022_French_Grand_Prix_%2852279065728%29_%28midcrop%29.png/500px-2022_French_Grand_Prix_%2852279065728%29_%28midcrop%29.png",
-      "points": 42.0,
+      "points": 44.0,
       "wins": 0,
       "podiums": 1,
       "dnfs": 1,
-      "points_last_race": 0.0,
+      "points_last_race": 2.0,
       "position": 10
     },
     {
@@ -156,7 +156,7 @@
       "wins": 0,
       "podiums": 0,
       "dnfs": 1,
-      "points_last_race": 1.0,
+      "points_last_race": 0.0,
       "position": 11
     },
     {
@@ -183,7 +183,7 @@
       "points": 18.0,
       "wins": 0,
       "podiums": 0,
-      "dnfs": 2,
+      "dnfs": 3,
       "points_last_race": 0.0,
       "position": 13
     },
@@ -216,6 +216,20 @@
       "position": 15
     },
     {
+      "abbreviation": "HUL",
+      "name": "Nico Hulkenberg",
+      "number": "27",
+      "team": "Audi",
+      "team_color": "808080",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/2019_Formula_One_tests_Barcelona%2C_Hulkenberg_%2840287128313%29.jpg/500px-2019_Formula_One_tests_Barcelona%2C_Hulkenberg_%2840287128313%29.jpg",
+      "points": 6.0,
+      "wins": 0,
+      "podiums": 0,
+      "dnfs": 4,
+      "points_last_race": 4.0,
+      "position": 16
+    },
+    {
       "abbreviation": "ALB",
       "name": "Alexander Albon",
       "number": "23",
@@ -227,7 +241,7 @@
       "podiums": 0,
       "dnfs": 4,
       "points_last_race": 0.0,
-      "position": 16
+      "position": 17
     },
     {
       "abbreviation": "OCO",
@@ -239,22 +253,8 @@
       "points": 3.0,
       "wins": 0,
       "podiums": 0,
-      "dnfs": 0,
+      "dnfs": 1,
       "points_last_race": 0.0,
-      "position": 17
-    },
-    {
-      "abbreviation": "HUL",
-      "name": "Nico Hulkenberg",
-      "number": "27",
-      "team": "Audi",
-      "team_color": "808080",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/2019_Formula_One_tests_Barcelona%2C_Hulkenberg_%2840287128313%29.jpg/500px-2019_Formula_One_tests_Barcelona%2C_Hulkenberg_%2840287128313%29.jpg",
-      "points": 2.0,
-      "wins": 0,
-      "podiums": 0,
-      "dnfs": 4,
-      "points_last_race": 2.0,
       "position": 18
     },
     {
@@ -264,11 +264,11 @@
       "team": "Aston Martin",
       "team_color": "358C75",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Alonso-68_%2824710447098%29.jpg/500px-Alonso-68_%2824710447098%29.jpg",
-      "points": 1.0,
+      "points": 3.0,
       "wins": 0,
       "podiums": 0,
       "dnfs": 4,
-      "points_last_race": 0.0,
+      "points_last_race": 2.0,
       "position": 19
     },
     {
@@ -295,7 +295,7 @@
       "points": 0.0,
       "wins": 0,
       "podiums": 0,
-      "dnfs": 7,
+      "dnfs": 8,
       "points_last_race": 0.0,
       "position": 21
     },
@@ -309,46 +309,60 @@
       "points": 0.0,
       "wins": 0,
       "podiums": 0,
-      "dnfs": 5,
+      "dnfs": 6,
       "points_last_race": 0.0,
       "position": 22
+    },
+    {
+      "abbreviation": "TSU",
+      "name": "Yuki Tsunoda",
+      "number": "22",
+      "team": "Racing Bulls",
+      "team_color": "808080",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Yuki_Tsunoda_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8096%29.jpg/500px-Yuki_Tsunoda_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8096%29.jpg",
+      "points": 0.0,
+      "wins": 0,
+      "podiums": 0,
+      "dnfs": 0,
+      "points_last_race": 0.0,
+      "position": 23
     }
   ],
   "constructors": [
     {
       "name": "Mercedes",
       "color": "00D2BE",
-      "points": 379.0,
+      "points": 425.0,
       "wins": 8,
-      "podiums": 14,
-      "points_last_race": 21.0,
+      "podiums": 16,
+      "points_last_race": 46.0,
       "position": 1
     },
     {
       "name": "Ferrari",
       "color": "E8002D",
-      "points": 307.0,
+      "points": 338.0,
       "wins": 2,
       "podiums": 9,
-      "points_last_race": 22.0,
+      "points_last_race": 31.0,
       "position": 2
     },
     {
       "name": "McLaren",
       "color": "FF8000",
-      "points": 220.0,
-      "wins": 1,
-      "podiums": 5,
-      "points_last_race": 25.0,
+      "points": 263.0,
+      "wins": 2,
+      "podiums": 6,
+      "points_last_race": 43.0,
       "position": 3
     },
     {
       "name": "Red Bull Racing",
       "color": "3671C6",
-      "points": 177.0,
+      "points": 186.0,
       "wins": 0,
       "podiums": 4,
-      "points_last_race": 26.0,
+      "points_last_race": 9.0,
       "position": 4
     },
     {
@@ -357,16 +371,16 @@
       "points": 66.0,
       "wins": 0,
       "podiums": 0,
-      "points_last_race": 5.0,
+      "points_last_race": 0.0,
       "position": 5
     },
     {
       "name": "Alpine",
       "color": "0093CC",
-      "points": 61.0,
+      "points": 63.0,
       "wins": 0,
       "podiums": 1,
-      "points_last_race": 0.0,
+      "points_last_race": 2.0,
       "position": 6
     },
     {
@@ -381,10 +395,10 @@
     {
       "name": "Audi",
       "color": "808080",
-      "points": 12.0,
+      "points": 16.0,
       "wins": 0,
       "podiums": 0,
-      "points_last_race": 2.0,
+      "points_last_race": 4.0,
       "position": 8
     },
     {
@@ -399,10 +413,10 @@
     {
       "name": "Aston Martin",
       "color": "358C75",
-      "points": 1.0,
+      "points": 3.0,
       "wins": 0,
       "podiums": 0,
-      "points_last_race": 0.0,
+      "points_last_race": 2.0,
       "position": 10
     },
     {
