@@ -2,7 +2,7 @@
   "meta": {
     "year": 2026,
     "total_rounds": 23,
-    "generated_at": "2026-09-04T10:00:24.042151+00:00"
+    "generated_at": "2026-09-04T11:00:24.640633+00:00"
   },
   "races": [
     {
@@ -221,7 +221,7 @@
       "circuit": "Monza",
       "country": "Italy",
       "date": "2026-09-06",
-      "status": "upcoming",
+      "status": "ongoing",
       "winner": null,
       "winner_team": null,
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Monza_aerial_photo.jpg",
