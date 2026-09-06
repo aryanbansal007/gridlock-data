@@ -2,7 +2,7 @@
   "meta": {
     "year": 2026,
     "total_rounds": 23,
-    "generated_at": "2026-09-06T21:00:35.035914+00:00"
+    "generated_at": "2026-09-06T22:00:29.141822+00:00"
   },
   "races": [
     {
@@ -222,8 +222,8 @@
       "country": "Italy",
       "date": "2026-09-06",
       "status": "completed",
-      "winner": "Pierre Gasly",
-      "winner_team": "Alpine",
+      "winner": "Kimi Antonelli",
+      "winner_team": "Mercedes",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Monza_aerial_photo.jpg",
       "race_id": "2026_italian_grand_prix",
       "has_sprint": false,
