@@ -1,7 +1,7 @@
 {
   "meta": {
     "year": 2026,
-    "generated_at": "2026-09-06T20:00:24.241060+00:00",
+    "generated_at": "2026-09-06T21:00:35.035930+00:00",
     "rounds_counted": 13
   },
   "drivers": [
@@ -96,7 +96,7 @@
       "team": "McLaren",
       "team_color": "FF8000",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2026_Chinese_GP_-_Oscar_Piastri_%28cropped%29_%28cropped%29.jpg/500px-2026_Chinese_GP_-_Oscar_Piastri_%28cropped%29_%28cropped%29.jpg",
-      "points": 104.0,
+      "points": 106.0,
       "wins": 0,
       "podiums": 2,
       "dnfs": 4,
@@ -110,9 +110,9 @@
       "team": "Red Bull Racing",
       "team_color": "3671C6",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Isack_Hadjar_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8753%29_%28cropped%29.jpg/500px-Isack_Hadjar_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8753%29_%28cropped%29.jpg",
-      "points": 68.0,
+      "points": 71.0,
       "wins": 0,
-      "podiums": 0,
+      "podiums": 1,
       "dnfs": 2,
       "points_last_race": 0.0,
       "position": 8
@@ -124,7 +124,7 @@
       "team": "Red Bull Racing",
       "team_color": "3671C6",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Liam_Lawson_at_the_Red_Bull_Fan_Zone_%E2%80%93_Crown_Riverwalk%2C_Melbourne_%28028A7793%29.jpg/500px-Liam_Lawson_at_the_Red_Bull_Fan_Zone_%E2%80%93_Crown_Riverwalk%2C_Melbourne_%28028A7793%29.jpg",
-      "points": 49.0,
+      "points": 51.0,
       "wins": 0,
       "podiums": 0,
       "dnfs": 2,
@@ -138,9 +138,9 @@
       "team": "Alpine",
       "team_color": "0093CC",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/2022_French_Grand_Prix_%2852279065728%29_%28midcrop%29.png/500px-2022_French_Grand_Prix_%2852279065728%29_%28midcrop%29.png",
-      "points": 44.0,
+      "points": 35.0,
       "wins": 0,
-      "podiums": 1,
+      "podiums": 0,
       "dnfs": 2,
       "points_last_race": 0.0,
       "position": 10
@@ -152,7 +152,7 @@
       "team": "Racing Bulls",
       "team_color": "808080",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Arvid_Lindblad_at_the_Red_Bull_Fan_Zone_%E2%80%93_Crown_Riverwalk%2C_Melbourne_%28028A7869%29_%28cropped%29.jpg/500px-Arvid_Lindblad_at_the_Red_Bull_Fan_Zone_%E2%80%93_Crown_Riverwalk%2C_Melbourne_%28028A7869%29_%28cropped%29.jpg",
-      "points": 23.0,
+      "points": 25.0,
       "wins": 0,
       "podiums": 0,
       "dnfs": 2,
@@ -350,7 +350,7 @@
     {
       "name": "McLaren",
       "color": "FF8000",
-      "points": 263.0,
+      "points": 265.0,
       "wins": 2,
       "podiums": 6,
       "points_last_race": 0.0,
@@ -359,16 +359,16 @@
     {
       "name": "Red Bull Racing",
       "color": "3671C6",
-      "points": 186.0,
+      "points": 189.0,
       "wins": 0,
-      "podiums": 4,
+      "podiums": 5,
       "points_last_race": 0.0,
       "position": 4
     },
     {
       "name": "Racing Bulls",
       "color": "808080",
-      "points": 66.0,
+      "points": 70.0,
       "wins": 0,
       "podiums": 0,
       "points_last_race": 0.0,
@@ -377,9 +377,9 @@
     {
       "name": "Alpine",
       "color": "0093CC",
-      "points": 63.0,
+      "points": 54.0,
       "wins": 0,
-      "podiums": 1,
+      "podiums": 0,
       "points_last_race": 0.0,
       "position": 6
     },
