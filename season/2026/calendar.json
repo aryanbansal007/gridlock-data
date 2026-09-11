@@ -2,7 +2,7 @@
   "meta": {
     "year": 2026,
     "total_rounds": 23,
-    "generated_at": "2026-09-11T11:00:21.945249+00:00"
+    "generated_at": "2026-09-11T12:00:35.345760+00:00"
   },
   "races": [
     {
@@ -236,7 +236,7 @@
       "circuit": "Madrid",
       "country": "Spain",
       "date": "2026-09-13",
-      "status": "upcoming",
+      "status": "ongoing",
       "winner": null,
       "winner_team": null,
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Circuit_de_Barcelona-Catalunya%2C_April_19%2C_2018_SkySat_%28cropped%29.jpg/1280px-Circuit_de_Barcelona-Catalunya%2C_April_19%2C_2018_SkySat_%28cropped%29.jpg",
