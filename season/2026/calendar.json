@@ -2,7 +2,7 @@
   "meta": {
     "year": 2026,
     "total_rounds": 23,
-    "generated_at": "2026-09-24T08:00:24.734121+00:00"
+    "generated_at": "2026-09-24T09:00:25.033324+00:00"
   },
   "races": [
     {
@@ -251,7 +251,7 @@
       "circuit": "Baku",
       "country": "Azerbaijan",
       "date": "2026-09-26",
-      "status": "upcoming",
+      "status": "ongoing",
       "winner": null,
       "winner_team": null,
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Baku_City_Circuit%2C_April_9%2C_2018_SkySat.jpg/1280px-Baku_City_Circuit%2C_April_9%2C_2018_SkySat.jpg",
