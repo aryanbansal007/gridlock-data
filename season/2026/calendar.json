@@ -2,7 +2,7 @@
   "meta": {
     "year": 2026,
     "total_rounds": 23,
-    "generated_at": "2026-09-26T14:00:28.944278+00:00"
+    "generated_at": "2026-09-26T15:00:26.736145+00:00"
   },
   "races": [
     {
@@ -251,9 +251,9 @@
       "circuit": "Baku",
       "country": "Azerbaijan",
       "date": "2026-09-26",
-      "status": "ongoing",
-      "winner": null,
-      "winner_team": null,
+      "status": "completed",
+      "winner": "George Russell",
+      "winner_team": "Mercedes",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Baku_City_Circuit%2C_April_9%2C_2018_SkySat.jpg/1280px-Baku_City_Circuit%2C_April_9%2C_2018_SkySat.jpg",
       "race_id": "2026_azerbaijan_grand_prix",
       "has_sprint": false,
