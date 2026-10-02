@@ -2,7 +2,7 @@
   "meta": {
     "year": 2026,
     "total_rounds": 23,
-    "generated_at": "2026-10-02T04:00:32.847594+00:00"
+    "generated_at": "2026-10-02T05:00:28.942538+00:00"
   },
   "races": [
     {
@@ -266,7 +266,7 @@
       "circuit": "Kuala Lumpur",
       "country": "Bahrain",
       "date": "2026-10-04",
-      "status": "upcoming",
+      "status": "ongoing",
       "winner": null,
       "winner_team": null,
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bahrain_International_Circuit%2C_November_2%2C_2017_SkySat_%28cropped%29.jpg/1280px-Bahrain_International_Circuit%2C_November_2%2C_2017_SkySat_%28cropped%29.jpg",
