@@ -2,7 +2,7 @@
   "meta": {
     "year": 2026,
     "total_rounds": 23,
-    "generated_at": "2026-10-04T10:00:16.736006+00:00"
+    "generated_at": "2026-10-04T11:00:24.035455+00:00"
   },
   "races": [
     {
@@ -266,9 +266,9 @@
       "circuit": "Kuala Lumpur",
       "country": "Bahrain",
       "date": "2026-10-04",
-      "status": "ongoing",
-      "winner": null,
-      "winner_team": null,
+      "status": "completed",
+      "winner": "Max Verstappen",
+      "winner_team": "Red Bull Racing",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bahrain_International_Circuit%2C_November_2%2C_2017_SkySat_%28cropped%29.jpg/1280px-Bahrain_International_Circuit%2C_November_2%2C_2017_SkySat_%28cropped%29.jpg",
       "race_id": "2026_bahrain_grand_prix",
       "has_sprint": false,
