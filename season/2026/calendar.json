@@ -2,7 +2,7 @@
   "meta": {
     "year": 2026,
     "total_rounds": 23,
-    "generated_at": "2026-10-09T08:00:20.535656+00:00"
+    "generated_at": "2026-10-09T09:00:28.841321+00:00"
   },
   "races": [
     {
@@ -281,7 +281,7 @@
       "circuit": "Marina Bay",
       "country": "Singapore",
       "date": "2026-10-11",
-      "status": "upcoming",
+      "status": "ongoing",
       "winner": null,
       "winner_team": null,
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/1_singapore_f1_night_race_2012_city_skyline.jpg/1280px-1_singapore_f1_night_race_2012_city_skyline.jpg",
