@@ -1,8 +1,8 @@
 {
   "meta": {
     "year": 2026,
-    "generated_at": "2026-10-11T15:00:34.438309+00:00",
-    "rounds_counted": 16
+    "generated_at": "2026-10-11T16:00:42.137685+00:00",
+    "rounds_counted": 17
   },
   "drivers": [
     {
@@ -12,11 +12,11 @@
       "team": "Mercedes",
       "team_color": "00D2BE",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kimi_Antonelli_at_the_2025_US_Grand_Prix_in_Austin%2C_TX_%28cropped%29.jpg/500px-Kimi_Antonelli_at_the_2025_US_Grand_Prix_in_Austin%2C_TX_%28cropped%29.jpg",
-      "points": 320.0,
+      "points": 325.0,
       "wins": 8,
       "podiums": 13,
-      "dnfs": 0,
-      "points_last_race": 18.0,
+      "dnfs": 1,
+      "points_last_race": 5.0,
       "position": 1
     },
     {
@@ -29,7 +29,7 @@
       "points": 236.0,
       "wins": 3,
       "podiums": 8,
-      "dnfs": 2,
+      "dnfs": 3,
       "points_last_race": 0.0,
       "position": 2
     },
@@ -40,11 +40,11 @@
       "team": "Ferrari",
       "team_color": "E8002D",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg/500px-Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg",
-      "points": 214.0,
+      "points": 221.0,
       "wins": 1,
       "podiums": 6,
-      "dnfs": 1,
-      "points_last_race": 15.0,
+      "dnfs": 2,
+      "points_last_race": 7.0,
       "position": 3
     },
     {
@@ -54,26 +54,12 @@
       "team": "Ferrari",
       "team_color": "E8002D",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3978_by_Stepro_%28cropped2%29.jpg/500px-2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3978_by_Stepro_%28cropped2%29.jpg",
-      "points": 191.0,
+      "points": 197.0,
       "wins": 1,
       "podiums": 4,
-      "dnfs": 2,
-      "points_last_race": 12.0,
+      "dnfs": 3,
+      "points_last_race": 6.0,
       "position": 4
-    },
-    {
-      "abbreviation": "NOR",
-      "name": "Lando Norris",
-      "number": "1",
-      "team": "McLaren",
-      "team_color": "FF8000",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3968_by_Stepro_%28cropped2%29.jpg/500px-2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3968_by_Stepro_%28cropped2%29.jpg",
-      "points": 188.0,
-      "wins": 2,
-      "podiums": 5,
-      "dnfs": 4,
-      "points_last_race": 2.0,
-      "position": 5
     },
     {
       "abbreviation": "VER",
@@ -82,11 +68,25 @@
       "team": "Red Bull Racing",
       "team_color": "3671C6",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_%28medium_crop%29.jpg/500px-2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_%28medium_crop%29.jpg",
-      "points": 188.0,
+      "points": 196.0,
       "wins": 1,
       "podiums": 8,
-      "dnfs": 3,
-      "points_last_race": 25.0,
+      "dnfs": 4,
+      "points_last_race": 8.0,
+      "position": 5
+    },
+    {
+      "abbreviation": "NOR",
+      "name": "Lando Norris",
+      "number": "1",
+      "team": "McLaren",
+      "team_color": "FF8000",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3968_by_Stepro_%28cropped2%29.jpg/500px-2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3968_by_Stepro_%28cropped2%29.jpg",
+      "points": 189.0,
+      "wins": 2,
+      "podiums": 5,
+      "dnfs": 5,
+      "points_last_race": 1.0,
       "position": 6
     },
     {
@@ -99,8 +99,8 @@
       "points": 128.0,
       "wins": 0,
       "podiums": 2,
-      "dnfs": 3,
-      "points_last_race": 8.0,
+      "dnfs": 4,
+      "points_last_race": 0.0,
       "position": 7
     },
     {
@@ -113,8 +113,8 @@
       "points": 96.0,
       "wins": 0,
       "podiums": 2,
-      "dnfs": 2,
-      "points_last_race": 10.0,
+      "dnfs": 3,
+      "points_last_race": 0.0,
       "position": 8
     },
     {
@@ -124,11 +124,11 @@
       "team": "Racing Bulls",
       "team_color": "808080",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Liam_Lawson_at_the_Red_Bull_Fan_Zone_%E2%80%93_Crown_Riverwalk%2C_Melbourne_%28028A7793%29.jpg/500px-Liam_Lawson_at_the_Red_Bull_Fan_Zone_%E2%80%93_Crown_Riverwalk%2C_Melbourne_%28028A7793%29.jpg",
-      "points": 65.0,
+      "points": 69.0,
       "wins": 0,
       "podiums": 0,
-      "dnfs": 1,
-      "points_last_race": 6.0,
+      "dnfs": 2,
+      "points_last_race": 4.0,
       "position": 9
     },
     {
@@ -141,7 +141,7 @@
       "points": 41.0,
       "wins": 0,
       "podiums": 0,
-      "dnfs": 2,
+      "dnfs": 3,
       "points_last_race": 0.0,
       "position": 10
     },
@@ -155,8 +155,8 @@
       "points": 38.0,
       "wins": 0,
       "podiums": 0,
-      "dnfs": 1,
-      "points_last_race": 1.0,
+      "dnfs": 2,
+      "points_last_race": 0.0,
       "position": 11
     },
     {
@@ -169,7 +169,7 @@
       "points": 27.0,
       "wins": 0,
       "podiums": 0,
-      "dnfs": 1,
+      "dnfs": 2,
       "points_last_race": 0.0,
       "position": 12
     },
@@ -180,11 +180,11 @@
       "team": "Haas F1 Team",
       "team_color": "B6BABD",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/2025_Japan_GP_-_Haas_-_Oliver_Bearman_-_Thursday_%28cropped%29.jpg/500px-2025_Japan_GP_-_Haas_-_Oliver_Bearman_-_Thursday_%28cropped%29.jpg",
-      "points": 20.0,
+      "points": 23.0,
       "wins": 0,
       "podiums": 0,
-      "dnfs": 3,
-      "points_last_race": 0.0,
+      "dnfs": 4,
+      "points_last_race": 3.0,
       "position": 13
     },
     {
@@ -197,9 +197,23 @@
       "points": 10.0,
       "wins": 0,
       "podiums": 0,
-      "dnfs": 1,
+      "dnfs": 2,
       "points_last_race": 0.0,
       "position": 14
+    },
+    {
+      "abbreviation": "HUL",
+      "name": "Nico Hulkenberg",
+      "number": "27",
+      "team": "Audi",
+      "team_color": "808080",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/2019_Formula_One_tests_Barcelona%2C_Hulkenberg_%2840287128313%29.jpg/500px-2019_Formula_One_tests_Barcelona%2C_Hulkenberg_%2840287128313%29.jpg",
+      "points": 9.0,
+      "wins": 0,
+      "podiums": 0,
+      "dnfs": 5,
+      "points_last_race": 2.0,
+      "position": 15
     },
     {
       "abbreviation": "OCO",
@@ -211,9 +225,9 @@
       "points": 7.0,
       "wins": 0,
       "podiums": 0,
-      "dnfs": 1,
+      "dnfs": 2,
       "points_last_race": 0.0,
-      "position": 15
+      "position": 16
     },
     {
       "abbreviation": "SAI",
@@ -225,9 +239,9 @@
       "points": 7.0,
       "wins": 0,
       "podiums": 0,
-      "dnfs": 2,
+      "dnfs": 3,
       "points_last_race": 0.0,
-      "position": 16
+      "position": 17
     },
     {
       "abbreviation": "ALO",
@@ -239,21 +253,7 @@
       "points": 7.0,
       "wins": 0,
       "podiums": 0,
-      "dnfs": 6,
-      "points_last_race": 4.0,
-      "position": 17
-    },
-    {
-      "abbreviation": "HUL",
-      "name": "Nico Hulkenberg",
-      "number": "27",
-      "team": "Audi",
-      "team_color": "808080",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/2019_Formula_One_tests_Barcelona%2C_Hulkenberg_%2840287128313%29.jpg/500px-2019_Formula_One_tests_Barcelona%2C_Hulkenberg_%2840287128313%29.jpg",
-      "points": 7.0,
-      "wins": 0,
-      "podiums": 0,
-      "dnfs": 4,
+      "dnfs": 7,
       "points_last_race": 0.0,
       "position": 18
     },
@@ -267,7 +267,7 @@
       "points": 5.0,
       "wins": 0,
       "podiums": 0,
-      "dnfs": 6,
+      "dnfs": 7,
       "points_last_race": 0.0,
       "position": 19
     },
@@ -295,7 +295,7 @@
       "points": 0.0,
       "wins": 0,
       "podiums": 0,
-      "dnfs": 5,
+      "dnfs": 6,
       "points_last_race": 0.0,
       "position": 21
     },
@@ -309,7 +309,7 @@
       "points": 0.0,
       "wins": 0,
       "podiums": 0,
-      "dnfs": 11,
+      "dnfs": 12,
       "points_last_race": 0.0,
       "position": 22
     },
@@ -323,7 +323,7 @@
       "points": 0.0,
       "wins": 0,
       "podiums": 0,
-      "dnfs": 7,
+      "dnfs": 8,
       "points_last_race": 0.0,
       "position": 23
     }
@@ -332,46 +332,46 @@
     {
       "name": "Mercedes",
       "color": "00D2BE",
-      "points": 556.0,
+      "points": 561.0,
       "wins": 11,
       "podiums": 21,
-      "points_last_race": 18.0,
+      "points_last_race": 5.0,
       "position": 1
     },
     {
       "name": "Ferrari",
       "color": "E8002D",
-      "points": 405.0,
+      "points": 418.0,
       "wins": 2,
       "podiums": 10,
-      "points_last_race": 27.0,
+      "points_last_race": 13.0,
       "position": 2
     },
     {
       "name": "McLaren",
       "color": "FF8000",
-      "points": 316.0,
+      "points": 317.0,
       "wins": 2,
       "podiums": 7,
-      "points_last_race": 10.0,
+      "points_last_race": 1.0,
       "position": 3
     },
     {
       "name": "Red Bull Racing",
       "color": "3671C6",
-      "points": 298.0,
+      "points": 306.0,
       "wins": 1,
       "podiums": 10,
-      "points_last_race": 35.0,
+      "points_last_race": 8.0,
       "position": 4
     },
     {
       "name": "Racing Bulls",
       "color": "808080",
-      "points": 90.0,
+      "points": 94.0,
       "wins": 0,
       "podiums": 0,
-      "points_last_race": 7.0,
+      "points_last_race": 4.0,
       "position": 5
     },
     {
@@ -386,19 +386,19 @@
     {
       "name": "Haas F1 Team",
       "color": "B6BABD",
-      "points": 27.0,
+      "points": 30.0,
       "wins": 0,
       "podiums": 0,
-      "points_last_race": 0.0,
+      "points_last_race": 3.0,
       "position": 7
     },
     {
       "name": "Audi",
       "color": "808080",
-      "points": 17.0,
+      "points": 19.0,
       "wins": 0,
       "podiums": 0,
-      "points_last_race": 0.0,
+      "points_last_race": 2.0,
       "position": 8
     },
     {
@@ -416,7 +416,7 @@
       "points": 7.0,
       "wins": 0,
       "podiums": 0,
-      "points_last_race": 4.0,
+      "points_last_race": 0.0,
       "position": 10
     },
     {

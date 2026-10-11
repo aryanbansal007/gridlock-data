@@ -2,7 +2,7 @@
   "meta": {
     "year": 2026,
     "total_rounds": 23,
-    "generated_at": "2026-10-11T15:00:34.438293+00:00"
+    "generated_at": "2026-10-11T16:00:42.137663+00:00"
   },
   "races": [
     {
@@ -281,9 +281,9 @@
       "circuit": "Marina Bay",
       "country": "Singapore",
       "date": "2026-10-11",
-      "status": "ongoing",
-      "winner": null,
-      "winner_team": null,
+      "status": "completed",
+      "winner": "Max Verstappen",
+      "winner_team": "Red Bull Racing",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/1_singapore_f1_night_race_2012_city_skyline.jpg/1280px-1_singapore_f1_night_race_2012_city_skyline.jpg",
       "race_id": "2026_singapore_grand_prix",
       "has_sprint": true,
