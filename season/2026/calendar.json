@@ -2,7 +2,7 @@
   "meta": {
     "year": 2026,
     "total_rounds": 23,
-    "generated_at": "2026-10-23T17:00:32.239023+00:00"
+    "generated_at": "2026-10-23T18:00:26.835054+00:00"
   },
   "races": [
     {
@@ -296,7 +296,7 @@
       "circuit": "Austin",
       "country": "United States",
       "date": "2026-10-25",
-      "status": "upcoming",
+      "status": "ongoing",
       "winner": null,
       "winner_team": null,
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Circuit_of_the_Americas%2C_April_22%2C_2018_SkySat_%28cropped2%29.jpg/1280px-Circuit_of_the_Americas%2C_April_22%2C_2018_SkySat_%28cropped2%29.jpg",
