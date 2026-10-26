@@ -2,7 +2,7 @@
   "meta": {
     "year": 2026,
     "total_rounds": 23,
-    "generated_at": "2026-10-25T23:00:22.040353+00:00"
+    "generated_at": "2026-10-26T00:00:46.142910+00:00"
   },
   "races": [
     {
@@ -296,9 +296,9 @@
       "circuit": "Austin",
       "country": "United States",
       "date": "2026-10-25",
-      "status": "ongoing",
-      "winner": null,
-      "winner_team": null,
+      "status": "completed",
+      "winner": "Andrea Kimi Antonelli",
+      "winner_team": "Mercedes",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Circuit_of_the_Americas%2C_April_22%2C_2018_SkySat_%28cropped2%29.jpg/1280px-Circuit_of_the_Americas%2C_April_22%2C_2018_SkySat_%28cropped2%29.jpg",
       "race_id": "2026_united_states_grand_prix",
       "has_sprint": false,
