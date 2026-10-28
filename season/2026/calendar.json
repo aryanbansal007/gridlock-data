@@ -2,7 +2,7 @@
   "meta": {
     "year": 2026,
     "total_rounds": 23,
-    "generated_at": "2026-10-28T17:01:11.457918+00:00"
+    "generated_at": "2026-10-28T18:22:06.759210+00:00"
   },
   "races": [
     {
@@ -268,7 +268,7 @@
       "date": "2026-10-04",
       "status": "completed",
       "winner": "Max Verstappen",
-      "winner_team": "Red Bull",
+      "winner_team": "Red Bull Racing",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bahrain_International_Circuit%2C_November_2%2C_2017_SkySat_%28cropped%29.jpg/1280px-Bahrain_International_Circuit%2C_November_2%2C_2017_SkySat_%28cropped%29.jpg",
       "race_id": "2026_bahrain_grand_prix",
       "has_sprint": false,
@@ -283,7 +283,7 @@
       "date": "2026-10-11",
       "status": "completed",
       "winner": "Max Verstappen",
-      "winner_team": "Red Bull",
+      "winner_team": "Red Bull Racing",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/1_singapore_f1_night_race_2012_city_skyline.jpg/1280px-1_singapore_f1_night_race_2012_city_skyline.jpg",
       "race_id": "2026_singapore_grand_prix",
       "has_sprint": true,
