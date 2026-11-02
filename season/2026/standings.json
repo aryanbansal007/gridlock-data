@@ -1,7 +1,7 @@
 {
   "meta": {
     "year": 2026,
-    "generated_at": "2026-11-02T20:01:08.530036+00:00",
+    "generated_at": "2026-11-02T21:01:08.625185+00:00",
     "rounds_counted": 19
   },
   "drivers": [
@@ -96,11 +96,11 @@
       "team": "McLaren",
       "team_color": "FF8000",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2026_Chinese_GP_-_Oscar_Piastri_%28cropped%29_%28cropped%29.jpg/500px-2026_Chinese_GP_-_Oscar_Piastri_%28cropped%29_%28cropped%29.jpg",
-      "points": 150.0,
+      "points": 144.0,
       "wins": 0,
       "podiums": 2,
       "dnfs": 3,
-      "points_last_race": 6.0,
+      "points_last_race": 0.0,
       "position": 7
     },
     {
@@ -110,11 +110,11 @@
       "team": "Red Bull Racing",
       "team_color": "3671C6",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Isack_Hadjar_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8753%29_%28cropped%29.jpg/500px-Isack_Hadjar_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8753%29_%28cropped%29.jpg",
-      "points": 105.0,
+      "points": 107.0,
       "wins": 0,
       "podiums": 2,
       "dnfs": 2,
-      "points_last_race": 0.0,
+      "points_last_race": 2.0,
       "position": 8
     },
     {
@@ -124,11 +124,11 @@
       "team": "Racing Bulls",
       "team_color": "6C98FF",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Liam_Lawson_at_the_Red_Bull_Fan_Zone_%E2%80%93_Crown_Riverwalk%2C_Melbourne_%28028A7793%29.jpg/500px-Liam_Lawson_at_the_Red_Bull_Fan_Zone_%E2%80%93_Crown_Riverwalk%2C_Melbourne_%28028A7793%29.jpg",
-      "points": 79.0,
+      "points": 83.0,
       "wins": 0,
       "podiums": 0,
       "dnfs": 1,
-      "points_last_race": 2.0,
+      "points_last_race": 6.0,
       "position": 9
     },
     {
@@ -138,11 +138,11 @@
       "team": "Alpine",
       "team_color": "0093CC",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/2022_French_Grand_Prix_%2852279065728%29_%28midcrop%29.png/500px-2022_French_Grand_Prix_%2852279065728%29_%28midcrop%29.png",
-      "points": 43.0,
+      "points": 42.0,
       "wins": 0,
       "podiums": 0,
       "dnfs": 2,
-      "points_last_race": 1.0,
+      "points_last_race": 0.0,
       "position": 10
     },
     {
@@ -166,11 +166,11 @@
       "team": "Alpine",
       "team_color": "0093CC",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Franco_Colapinto_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8704%29_%28cropped%29.jpg/500px-Franco_Colapinto_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8704%29_%28cropped%29.jpg",
-      "points": 31.0,
+      "points": 27.0,
       "wins": 0,
       "podiums": 0,
       "dnfs": 3,
-      "points_last_race": 4.0,
+      "points_last_race": 0.0,
       "position": 12
     },
     {
@@ -188,6 +188,20 @@
       "position": 13
     },
     {
+      "abbreviation": "BOR",
+      "name": "Gabriel Bortoleto",
+      "number": "5",
+      "team": "Audi",
+      "team_color": "FF6B6B",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Gabriel_Bortoleto_%28cropped%29.jpg/500px-Gabriel_Bortoleto_%28cropped%29.jpg",
+      "points": 14.0,
+      "wins": 0,
+      "podiums": 0,
+      "dnfs": 2,
+      "points_last_race": 4.0,
+      "position": 14
+    },
+    {
       "abbreviation": "HUL",
       "name": "Nico H\u00fclkenberg",
       "number": "27",
@@ -198,20 +212,6 @@
       "wins": 0,
       "podiums": 0,
       "dnfs": 4,
-      "points_last_race": 0.0,
-      "position": 14
-    },
-    {
-      "abbreviation": "BOR",
-      "name": "Gabriel Bortoleto",
-      "number": "5",
-      "team": "Audi",
-      "team_color": "FF6B6B",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Gabriel_Bortoleto_%28cropped%29.jpg/500px-Gabriel_Bortoleto_%28cropped%29.jpg",
-      "points": 10.0,
-      "wins": 0,
-      "podiums": 0,
-      "dnfs": 2,
       "points_last_race": 0.0,
       "position": 15
     },
@@ -286,6 +286,20 @@
       "position": 20
     },
     {
+      "abbreviation": "HIR",
+      "name": "Ryo Hirakawa",
+      "number": "50",
+      "team": "Haas F1 Team",
+      "team_color": "B6BABD",
+      "image_url": "",
+      "points": 1.0,
+      "wins": 0,
+      "podiums": 0,
+      "dnfs": 0,
+      "points_last_race": 1.0,
+      "position": 21
+    },
+    {
       "abbreviation": "PER",
       "name": "Sergio P\u00e9rez",
       "number": "11",
@@ -297,7 +311,7 @@
       "podiums": 0,
       "dnfs": 5,
       "points_last_race": 0.0,
-      "position": 21
+      "position": 22
     },
     {
       "abbreviation": "STR",
@@ -311,7 +325,7 @@
       "podiums": 0,
       "dnfs": 13,
       "points_last_race": 0.0,
-      "position": 22
+      "position": 23
     },
     {
       "abbreviation": "BOT",
@@ -324,20 +338,6 @@
       "wins": 0,
       "podiums": 0,
       "dnfs": 9,
-      "points_last_race": 0.0,
-      "position": 23
-    },
-    {
-      "abbreviation": "HIR",
-      "name": "Ryo Hirakawa",
-      "number": "50",
-      "team": "Haas F1 Team",
-      "team_color": "B6BABD",
-      "image_url": "",
-      "points": 0.0,
-      "wins": 0,
-      "podiums": 0,
-      "dnfs": 0,
       "points_last_race": 0.0,
       "position": 24
     }
@@ -364,55 +364,55 @@
     {
       "name": "Red Bull Racing",
       "color": "3671C6",
-      "points": 380.0,
+      "points": 382.0,
       "wins": 3,
       "podiums": 13,
-      "points_last_race": 25.0,
+      "points_last_race": 27.0,
       "position": 3
     },
     {
       "name": "McLaren",
       "color": "FF8000",
-      "points": 371.0,
+      "points": 365.0,
       "wins": 2,
       "podiums": 7,
-      "points_last_race": 16.0,
+      "points_last_race": 10.0,
       "position": 4
     },
     {
       "name": "Racing Bulls",
       "color": "6C98FF",
-      "points": 104.0,
+      "points": 108.0,
       "wins": 0,
       "podiums": 0,
-      "points_last_race": 2.0,
+      "points_last_race": 6.0,
       "position": 5
     },
     {
       "name": "Alpine",
       "color": "0093CC",
-      "points": 74.0,
+      "points": 69.0,
       "wins": 0,
       "podiums": 0,
-      "points_last_race": 5.0,
+      "points_last_race": 0.0,
       "position": 6
     },
     {
       "name": "Haas F1 Team",
       "color": "B6BABD",
-      "points": 30.0,
+      "points": 31.0,
       "wins": 0,
       "podiums": 0,
-      "points_last_race": 0.0,
+      "points_last_race": 1.0,
       "position": 7
     },
     {
       "name": "Audi",
       "color": "FF6B6B",
-      "points": 23.0,
+      "points": 27.0,
       "wins": 0,
       "podiums": 0,
-      "points_last_race": 0.0,
+      "points_last_race": 4.0,
       "position": 8
     },
     {
