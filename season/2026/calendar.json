@@ -2,7 +2,7 @@
   "meta": {
     "year": 2026,
     "total_rounds": 23,
-    "generated_at": "2026-11-08T20:01:31.529013+00:00"
+    "generated_at": "2026-11-08T21:01:16.027760+00:00"
   },
   "races": [
     {
@@ -326,9 +326,9 @@
       "circuit": "S\u00e3o Paulo",
       "country": "Brazil",
       "date": "2026-11-08",
-      "status": "ongoing",
-      "winner": null,
-      "winner_team": null,
+      "status": "completed",
+      "winner": "Lando Norris",
+      "winner_team": "McLaren",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Bairro_de_Interlagos.jpg",
       "race_id": "2026_s\u00e3o_paulo_grand_prix",
       "has_sprint": false,
