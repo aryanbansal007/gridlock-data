@@ -1,7 +1,7 @@
 {
   "meta": {
     "year": 2026,
-    "generated_at": "2026-11-08T23:01:15.018975+00:00",
+    "generated_at": "2026-11-09T00:01:11.220052+00:00",
     "rounds_counted": 20
   },
   "drivers": [
@@ -68,11 +68,11 @@
       "team": "Ferrari",
       "team_color": "E8002D",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3978_by_Stepro_%28cropped2%29.jpg/500px-2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3978_by_Stepro_%28cropped2%29.jpg",
-      "points": 251.0,
+      "points": 249.0,
       "wins": 1,
       "podiums": 6,
       "dnfs": 2,
-      "points_last_race": 6.0,
+      "points_last_race": 4.0,
       "position": 5
     },
     {
@@ -124,11 +124,11 @@
       "team": "Racing Bulls",
       "team_color": "6C98FF",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Liam_Lawson_at_the_Red_Bull_Fan_Zone_%E2%80%93_Crown_Riverwalk%2C_Melbourne_%28028A7793%29.jpg/500px-Liam_Lawson_at_the_Red_Bull_Fan_Zone_%E2%80%93_Crown_Riverwalk%2C_Melbourne_%28028A7793%29.jpg",
-      "points": 87.0,
+      "points": 89.0,
       "wins": 0,
       "podiums": 0,
       "dnfs": 1,
-      "points_last_race": 4.0,
+      "points_last_race": 6.0,
       "position": 9
     },
     {
@@ -369,10 +369,10 @@
     {
       "name": "Ferrari",
       "color": "E8002D",
-      "points": 512.0,
+      "points": 510.0,
       "wins": 2,
       "podiums": 13,
-      "points_last_race": 8.0,
+      "points_last_race": 6.0,
       "position": 2
     },
     {
@@ -396,10 +396,10 @@
     {
       "name": "Racing Bulls",
       "color": "6C98FF",
-      "points": 112.0,
+      "points": 114.0,
       "wins": 0,
       "podiums": 0,
-      "points_last_race": 4.0,
+      "points_last_race": 6.0,
       "position": 5
     },
     {
