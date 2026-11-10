@@ -1,7 +1,7 @@
 {
   "meta": {
     "year": 2026,
-    "generated_at": "2026-11-10T11:01:17.823325+00:00",
+    "generated_at": "2026-11-10T12:01:25.326542+00:00",
     "rounds_counted": 20
   },
   "drivers": [
@@ -342,7 +342,7 @@
       "position": 24
     },
     {
-      "abbreviation": "nan",
+      "abbreviation": "CAM",
       "name": "Rafael Camara",
       "number": "51",
       "team": "Haas F1 Team",
